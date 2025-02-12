@@ -33,7 +33,8 @@ Este projeto utiliza o Raspberry Pi Pico W para controlar um servo motor atravé
 
 1. Clone este repositório em sua máquina.
 2. Configure o ambiente de desenvolvimento do Raspberry Pi Pico W (instale o plugin Pico SDK no Visual Studio Code).
-3. Compile o código e carregue o arquivo compilado no Raspberry Pi Pico W utilizando o plugin.
+3. Importe o projeto pelo plugin do Pico SDK.
+4. Compile o código e carregue o arquivo compilado no Raspberry Pi Pico W utilizando o plugin.
 5. Conecte o servo motor ao GPIO 22 e forneça alimentação adequada.
 6. Execute o código e observe os movimentos do servo motor.
 
