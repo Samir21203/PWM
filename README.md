@@ -1,4 +1,4 @@
-# Controle de Servo Motor com Raspberry Pi Pico W (PWM)
+# Controle de Servo Motor com Raspberry Pi Pico W - PWM (<https://youtu.be/gS_oX0JXTOI>)
 
 Este projeto utiliza o Raspberry Pi Pico W para controlar um servo motor através de sinais PWM (Pulse Width Modulation). O servo motor pode ser movido para diferentes posições (0°, 90°, 180°) e também realiza movimentos suaves entre essas posições.
 
